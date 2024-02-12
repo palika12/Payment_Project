@@ -20,8 +20,8 @@ import { FormsModule } from '@angular/forms';
     BrowserModule,
     HttpClientModule,
     FormsModule,
-    BrowserAnimationsModule, // required animations module
-    ToastrModule.forRoot(), // ToastrModule added
+    BrowserAnimationsModule, 
+    ToastrModule.forRoot(), 
   ],
   providers: [],
   bootstrap: [AppComponent]
